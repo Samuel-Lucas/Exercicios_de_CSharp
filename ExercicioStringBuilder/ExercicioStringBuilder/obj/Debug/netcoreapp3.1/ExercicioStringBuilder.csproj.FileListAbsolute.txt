@@ -1,0 +1,11 @@
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.exe
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.deps.json
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.runtimeconfig.dev.json
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.dll
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\netcoreapp3.1\ExercicioStringBuilder.pdb
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\netcoreapp3.1\ExercicioStringBuilder.csprojAssemblyReference.cache
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\netcoreapp3.1\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\netcoreapp3.1\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\netcoreapp3.1\ExercicioStringBuilder.dll
+C:\Users\samuel\Documents\projetos\CSharp\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\netcoreapp3.1\ExercicioStringBuilder.pdb
